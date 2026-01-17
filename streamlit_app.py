@@ -197,3 +197,4 @@ if st.button("Analyze"):
         st.markdown(ai_explanation)
 
         st.caption("⚠️ Educational purpose only. Not financial advice.")
+        # 8.2
